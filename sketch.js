@@ -1,6 +1,6 @@
 var boy,boyImg;
 function preload(){
-    boyImg=loadImage("proc41images/images/Walking Frame/walking_2.png")
+    boyImg=loadImage("walking_2.png")
 }
 
 function setup(){
